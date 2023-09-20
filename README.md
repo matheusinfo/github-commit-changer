@@ -14,3 +14,6 @@ $ chmod +x ./script.sh && ./script.sh
     <br>
 </h1>
 
+## Observations
+- When pasting the URI, remove the ".git" from the end, because the change directory (cd) after cloning is to the repository name.
+- In case you don't change the DATE, remove the "clear" command from line '110' and verify.
