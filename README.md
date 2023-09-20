@@ -1,5 +1,5 @@
 <h1 align="center">GitHub commit changer</h1>
-<p>Want change the year, month, day, hour our second of one or all commits? Let's go</p>
+<p>Want change the year, month, day, hour or second of one or all commits? Let's go</p>
 
 ## How use
 
